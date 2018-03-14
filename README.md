@@ -5,3 +5,5 @@ q5: finding minimum from 3 arrays
 q6: finding maximum and minimum from a large list
 q7 :rounding off decimal values
 q8: converting F to C and rounding off
+q9: calculating total vowels including y in a sentence
+q10 : using the function and finding sum of individual digits
