@@ -7,3 +7,4 @@ q7 :rounding off decimal values
 q8: converting F to C and rounding off
 q9: calculating total vowels including y in a sentence
 q10 : using the function and finding sum of individual digits
+q11 : using quicksort algorithm to sort 
