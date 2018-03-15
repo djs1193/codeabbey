@@ -12,3 +12,4 @@ q12 : calculate BMI
 q13 : calculating AP Sum
 q14 : weighted sums 
 q15 : triangles possible
+q16 : dice problem
