@@ -16,3 +16,4 @@ q16 : dice problem
 q17 : average of an array 
 q18 : checksum
 q19 : reversing a string and the words
+q20 : array counter
