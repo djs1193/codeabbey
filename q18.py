@@ -1,4 +1,7 @@
 # calculating the check sum
+# when the receiver recieves the file he does the same action to get the same result to ensure the data is exactly the same
+#113 --> seed
+# -->arbitary large number
 
 list1 = [
 74, 270, 7 ,27 ,30, 6281640, 71709, 23, 7821, 4491167, 759, 5377, 10, 47660, 505998, 7157, 605, 243904984, 197, 49734, 22678, 15, 295, 6499, 1 ,4 ,54048873 ,987748185, 47933]
