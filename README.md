@@ -18,4 +18,4 @@ q18 : checksum
 q19 : reversing a string and the words
 q20 : array counter
 q21 : Collatz sequence
-q22c: Linear function
+q22 : Linear function
