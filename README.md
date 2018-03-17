@@ -1,11 +1,11 @@
 # codeabbey
-q3:adding corresponding values of 2 arrays
-q4:comparing 2 lists and getting corresponding minimum
-q5: finding minimum from 3 arrays
-q6: finding maximum and minimum from a large list
-q7 :rounding off decimal values
-q8: converting F to C and rounding off
-q9: calculating total vowels including y in a sentence
+q3  :adding corresponding values of 2 arrays
+q4  :comparing 2 lists and getting corresponding minimum
+q5  : finding minimum from 3 arrays
+q6  : finding maximum and minimum from a large list
+q7  :rounding off decimal values
+q8  : converting F to C and rounding off
+q9  : calculating total vowels including y in a sentence
 q10 : using the function and finding sum of individual digits
 q11 : using quicksort algorithm to sort 
 q12 : calculate BMI
@@ -18,3 +18,4 @@ q18 : checksum
 q19 : reversing a string and the words
 q20 : array counter
 q21 : Collatz sequence
+q22c:
