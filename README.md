@@ -21,3 +21,4 @@ q21 : Collatz sequence
 q22 : Linear function
 q23 : Time difference Modulo
 q24 : modulo calculator
+q25 : bubble sorting
