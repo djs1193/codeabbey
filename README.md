@@ -23,3 +23,4 @@ q23 : Time difference Modulo
 q24 : modulo calculator
 q25 : bubble sorting
 q26 : gcd,lcm
+q27 : sort with indexes
