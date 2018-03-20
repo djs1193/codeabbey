@@ -25,3 +25,4 @@ q25 : bubble sorting
 q26 : gcd,lcm
 q27 : sort with indexes
 q28 : finding square root using herons formula
+q29 : bubble in array
