@@ -24,3 +24,4 @@ q24 : modulo calculator
 q25 : bubble sorting
 q26 : gcd,lcm
 q27 : sort with indexes
+q28 : finding square root using herons formula
