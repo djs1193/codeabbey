@@ -28,3 +28,4 @@ q28 : finding square root using herons formula
 q29 : bubble in array
 q30 : neumanns random generator (check when a number is repeated)
 q31 : pallindrom
+q32: fibonacci series finding term
