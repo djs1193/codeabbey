@@ -31,3 +31,4 @@ q31 : pallindrom
 q32 : fibonacci series finding term
 q33 : string rotation
 q34 : weather smooth
+q35 : bicycle race
