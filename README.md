@@ -34,3 +34,4 @@ q34 : weather smooth
 q35 : bicycle race
 q36 : josephus problem
 q37 : savings calculator
+q38 : linear congruential generator
