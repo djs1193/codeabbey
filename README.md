@@ -33,3 +33,4 @@ q33 : string rotation
 q34 : weather smooth
 q35 : bicycle race
 q36 : josephus problem
+q37 : savings calculator
