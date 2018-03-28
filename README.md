@@ -37,3 +37,4 @@ q37 : savings calculator
 q38 : linear congruential generator
 q39 : double dice role
 q40 : matching brackets
+q41 : convert to 32 bit int
