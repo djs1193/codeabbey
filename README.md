@@ -42,3 +42,4 @@ q42 : caesar cipher
 q43 : matching words
 q44 : herons formula
 q45 : rock paper scissors
+q46 : card deck
