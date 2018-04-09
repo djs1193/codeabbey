@@ -44,3 +44,4 @@ q44 : herons formula
 q45 : rock paper scissors
 q46 : card deck
 q47 : prime numbers till 200000
+q48 : april fools sum of sqaure
