@@ -47,3 +47,4 @@ q47 : prime numbers till 200000
 q48 : april fools sum of sqaure
 q49 : two printers minimum time
 q50 : cows and bulls
+q51 : combinations
