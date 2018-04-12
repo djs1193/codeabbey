@@ -48,3 +48,4 @@ q48 : april fools sum of sqaure
 q49 : two printers minimum time
 q50 : cows and bulls
 q51 : combinations
+q52 : parity check
