@@ -49,3 +49,4 @@ q49 : two printers minimum time
 q50 : cows and bulls
 q51 : combinations
 q52 : parity check
+q53 : blackjack
