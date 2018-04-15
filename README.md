@@ -50,3 +50,4 @@ q50 : cows and bulls
 q51 : combinations
 q52 : parity check
 q53 : blackjack
+q54 : quadratic eq solutions
