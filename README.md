@@ -52,3 +52,4 @@ q52 : parity check
 q53 : blackjack
 q54 : quadratic eq solutions
 q55 : Binary search tree equation
+q56 : Selection Sort
