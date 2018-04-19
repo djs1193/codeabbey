@@ -53,3 +53,4 @@ q53 : blackjack
 q54 : quadratic eq solutions
 q55 : Binary search tree equation
 q56 : Selection Sort
+q57 : King and Queen
