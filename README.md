@@ -56,3 +56,4 @@ q56 : Selection Sort
 q57 : King and Queen
 q58 : Card shuffle
 q59 : integer factorization
+q60 : tic-tac-toe
