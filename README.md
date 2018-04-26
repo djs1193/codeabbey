@@ -62,3 +62,4 @@ q62 : fibonacci divisibilty
 q63 : funny words generator
 q64 : Prime ranges
 q65 : Share price Volatility
+q66 : Insertion Sort
