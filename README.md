@@ -61,4 +61,4 @@ q61 : mortgage calculator
 q62 : fibonacci divisibilty
 q63 : funny words generator
 q64 : Prime ranges
-
+q65 : Share price Volatility
