@@ -65,3 +65,4 @@ q65 : Share price Volatility
 q66 : Insertion Sort
 q67 : flying text screen saver
 q68 : Anagrams
+q69 : Yacht or Dice Poker
