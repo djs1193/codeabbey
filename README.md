@@ -66,3 +66,5 @@ q66 : Insertion Sort
 q67 : flying text screen saver
 q68 : Anagrams
 q69 : Yacht or Dice Poker
+q70 : Brainfuck ** unsolved
+q71 : Clock Hands
