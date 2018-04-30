@@ -69,3 +69,5 @@ q69 : Yacht or Dice Poker
 q70 : Brainfuck 
 q71 : Clock Hands
 q72 : Code guessor
+q73 : tree height measurement
+
