@@ -1,0 +1,10 @@
+# to print the value 28 using brainfuck
+
+>                   move to c1
+++++ +++            put value 7 in c1
+[                   loop till c1 is not 0
+< +++ +             in c0 put 4
+> -                 subtract 1 from c1
+]                   in c0  we put 4 seven times (4*7)   loop ends with pointer at c1
+<                   go to c0
+:                   print c0
