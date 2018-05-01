@@ -70,4 +70,5 @@ q70 : Brainfuck
 q71 : Clock Hands
 q72 : Code guessor
 q73 : tree height measurement
+q74 : luhn algorithm
 
