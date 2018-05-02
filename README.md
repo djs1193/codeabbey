@@ -72,3 +72,4 @@ q72 : Code guessor
 q73 : tree height measurement
 q74 : luhn algorithm
 q75 : Hexagonal grid
+q76 : Pythagorean Triples
