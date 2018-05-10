@@ -1,0 +1,10 @@
+brainfuck to add to number and keep the number also
+
+++++ ++++ ++++ ++                   put 14 in c0
+>                                   go to c1
+++++ ++++ ++++ ++                   put 14 in c1
+>                                   go to c2
+++++ ++++ ++++ ++++ ++++ +++        put 23 in c2
+<                                   go to c1
+[->+<]                              add 14 to c2 , pointer at c1 now 0
+++++ ++++ ++++ ++++ ++++ +++        put 23 in c2
