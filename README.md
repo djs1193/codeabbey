@@ -76,3 +76,4 @@ q76 : Pythagorean Triples
 q77 : duel chances
 q78 : summing up
 q79 : variable length code
+q80 :dragons and dungeons
