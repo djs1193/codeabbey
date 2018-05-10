@@ -74,3 +74,4 @@ q74 : luhn algorithm
 q75 : Hexagonal grid
 q76 : Pythagorean Triples
 q77 : duel chances
+q78 : summing up
