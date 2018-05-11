@@ -79,3 +79,4 @@ q79 : variable length code
 q80 : dragons and dungeons
 q81 : Girls and Pigs
 q82 : Convex Polygon Area
+q83 : Cloud Altitude Measurement
