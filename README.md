@@ -81,3 +81,4 @@ q81 : Girls and Pigs
 q82 : Convex Polygon Area
 q83 : Cloud Altitude Measurement
 q84 : QuickSort
+q85 : Simple Life
