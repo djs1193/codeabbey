@@ -87,3 +87,4 @@ q86 : Most Frequent Word
 q87 : Rotation in 2D Space
 q88 : Caesar Cipher Cracker
 q89 : Paths in a Grid
+q90 : Azimuth at Treasure Island
