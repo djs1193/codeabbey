@@ -89,3 +89,4 @@ q88 : Caesar Cipher Cracker
 q89 : Paths in a Grid
 q90 : Azimuth at Treasure Island
 q91 : Tree Builder
+q92 : Modular Exponential
