@@ -91,3 +91,4 @@ q90 : Azimuth at Treasure Island
 q91 : Tree Builder
 q92 : Modular Exponential
 q93 : Brainfuck Interpreter
+q94 : Point to segmant Distance
