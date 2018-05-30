@@ -97,3 +97,4 @@ q96 : Sweet Harvest
 q97 : Reverse Polish Notation
 q98 : Levenshtein Distance
 q99 : Static Web Page
+q100 : Brain Fibo
