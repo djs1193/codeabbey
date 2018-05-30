@@ -98,4 +98,5 @@ q97 : Reverse Polish Notation
 q98 : Levenshtein Distance
 q99 : Static Web Page
 q100 : Brain Fibo
-q101 : Game of 2048
+q101 : Basics of HTML
+q102 : Game of 2048
