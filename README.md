@@ -101,3 +101,4 @@ q100 : Brain Fibo
 q101 : Basics of HTML
 q102 : Game of 2048
 q103 : Maze Path Finder
+q104 : Simple Linear Regression
