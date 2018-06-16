@@ -104,3 +104,4 @@ q103 : Maze Path Finder
 q104 : Simple Linear Regression
 q105 : Fibonacci Divisibility Advanced
 q106 : Gradient Calculation
+q107 : Binary Heap
