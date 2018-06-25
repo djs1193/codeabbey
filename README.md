@@ -111,3 +111,4 @@ q110 : (NOT SOLVED)
 q111 : Graph generator
 q112 : Lexicographic Permutations
 q113 : Star Medals
+q114 : Four Pics One Word
