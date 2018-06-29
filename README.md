@@ -113,4 +113,5 @@ q112 : Lexicographic Permutations
 q113 : Star Medals
 q114 : Four Pics One Word
 q115 : Bezier Curves
-q116 : Extended Euclidean Algorithm
+q118 : (NOT SOLVED)
+q117 : Extended Euclidean Algorithm
